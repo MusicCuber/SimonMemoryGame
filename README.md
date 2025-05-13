@@ -1,1 +1,1 @@
-# JanKenPon
+# Simon Memory Game
